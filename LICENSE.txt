@@ -1,0 +1,16 @@
+SAFE-h2 is a free software under the Attribution-NonCommercial-NoDerivatives 4.0 International license (CC-BY-NC-ND 4.0 International license).
+
+
+Citation:
+Behrooz Darbani, Mogens Nicolaisen. On the genetic origions of phenotypes in genome-wide association studies: the SAFE-h2 tool for exploring additive and non-additive allelic effects.
+BMC Bioinformatics 2026. https://doi.org/10.1186/s12859-026-06464-6.
+Contact: behroozdarbani@gmail.com 
+Department of Agroecology, Faculty of Technical Sciences, Aarhus University, Slagelse, Denmark
+Department of Clinical Research, Hospital Sønderjylland, 6200, Aabenraa, Denmark
+Department of Regional Health Research, University of Southern Denmark, 6200, Aabenraa, Denmark
+ 
+
+
+
+
+
